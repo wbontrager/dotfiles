@@ -1,6 +1,5 @@
 # Add `~/bin` to the `$PATH`
 export PATH="$HOME/bin:$PATH";
-export DOTFILES_RELATIVE_PATH="~/dotfiles"
 
 # Load the shell dotfiles, and then some:
 # * ~/.path can be used to extend `$PATH`.
